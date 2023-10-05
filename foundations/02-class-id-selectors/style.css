@@ -1,0 +1,33 @@
+* {
+    font-size: 24px;
+    font-family: Verdana, DejaVu Sans, Tahoma, sans-serif;
+}
+
+.pink {
+
+    background-color: pink;
+
+
+}
+
+.big {
+
+    font-size: 36px;
+}
+
+
+#second, #fourth {
+    font-weight: 700;
+}
+
+#second {
+color: blue;
+
+}
+
+ #fourth {
+
+    background-color: green;
+     
+ }
+
