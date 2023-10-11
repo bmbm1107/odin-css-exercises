@@ -60,4 +60,5 @@ ul {
   margin-right: auto;
   display: flex;
   padding: 0px;
+  gap: 15px;
 }
